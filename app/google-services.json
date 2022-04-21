@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844685057776",
+    "project_id": "portalnoticiasjmn",
+    "storage_bucket": "portalnoticiasjmn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844685057776:android:293a2e989a0225ef322c35",
+        "android_client_info": {
+          "package_name": "com.example.portalnoticias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844685057776-u0h07cm70pi0snkp6s93p7cghdc2g5ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJqjYTmbOKJe8c8jPVrvedtPQwIQ0vLZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844685057776-u0h07cm70pi0snkp6s93p7cghdc2g5ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

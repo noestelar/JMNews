@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android" android:background="@color/Background"
+    >
+    <item android:title="@string/opcion1"
+        android:id="@+id/op1"></item>
+    <item android:title="@string/opcion2"
+        android:id="@+id/op2"></item>
+    <item android:title="@string/opcion3"
+        android:id="@+id/op3"></item>
+    <item android:title="@string/opcion4"
+        android:id="@+id/op4"></item>
+    <item android:title="@string/opcion5"
+        android:id="@+id/op5"></item>
+    <item android:title="@string/opcion6"
+        android:id="@+id/op6"></item>
+    <item android:title="@string/opcion7"
+        android:id="@+id/op7"></item>
+    <item android:title="@string/opcion8"
+        android:id="@+id/op8"></item>
+    <item android:title="@string/opcion9"
+        android:id="@+id/op9"></item>
+    <item android:title=""
+        android:visible="false"
+        android:id="@+id/op10"
+        android:checked="true"></item>
+
+</menu>
+
+
+
+
+
